@@ -1,0 +1,44 @@
+Nom: Un ciudadano ejemplar
+Any: 2009
+Argument: Clyde Shelton (Gerard Butler) és un home que ho ha perdut tot: fa deu anys la seva dona i la seva filla van ser brutalment assassinades, 
+però el veritable criminal no va ser condemnat. El responsable d?aquesta injustícia és Nick Rice (Jamie Foxx), l?ambiciós ajudant del fiscal del districte, que va fer un 
+pacte amb l?advocat d?un dels assassins. Però Clyde no ha oblidat els fets, i ha esperat tot aquest temps per poder dur a terme la seva venjança implacable
+
+
+Biblioteca
+Llibre 1
+Titol: babhsdab
+Autor: Blaasa
+Llibre 2
+Titol: babhsdab
+Autor: Blaasa
+Llibre 3
+Titol: babhsdab
+Autor: Blaasa
+Llibre 4
+Titol: babhsdab
+Autor: Blaasa
+Llibre 5
+Titol: babhsdab
+Autor: Blaasa
+
+Amic1
+Ataco a D4
+
+Amic2
+DA = Aigua
+
+Amic2
+Ataco a E3
+
+Amic1
+E3 = Tocat
+
+
+    TITOL
+
+Subtitol
+
+- Item 1
+- Item 2
+

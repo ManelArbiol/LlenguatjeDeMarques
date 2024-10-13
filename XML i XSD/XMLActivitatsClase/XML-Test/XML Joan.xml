@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alumnes>
+    <Nom>Joan</Nom>
+    <Cognom>Garcia</Cognom>
+    <Nascut lloc="Barcelona">
+        <dia>24</dia>
+        <mes>2</mes>
+        <any>2001</any>
+    </Nascut>
+</Alumnes>

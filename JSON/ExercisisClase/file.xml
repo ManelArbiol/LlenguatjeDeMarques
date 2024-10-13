@@ -1,0 +1,14 @@
+<widget>
+    <debug>on</debug>
+    <window title="Sample Konfabulator Widget">
+        <name>main_window</name>
+        <width>500</width>
+        <height>500</height>
+    </window>
+    <text data="Click Here" size="36" style="bold">
+        <name>text1</name>
+        <onMouseUp>
+            sun1.opacity = (sun1.opacity / 100) * 90;
+        </onMouseUp>
+    </text>
+</widget>

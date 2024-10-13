@@ -1,0 +1,24 @@
+[
+  {
+    "titol": "Blau sobre blanc",
+    "tipus": "abstracte",
+    "autor": "Pere Àguila",
+    "any": 2014,
+    "tecnica": "oli"
+  },
+  {
+    "titol": "Gris obscur",
+    "tipus": "abstracte",
+    "autor": "Pere Àguila",
+    "any": 2010,
+    "tecnica": "aquarel·la"
+  },
+  {
+    "titol": "Camí llarg",
+    "tipus": "escultura",
+    "autor": "Marta Lambert",
+    "any": 1981,
+    "tecnica": null,
+    "material": "marbre"
+  }
+]

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- He intetat fer el que vas dir, de primer separar i definir els elements generals.  -->
+    <xs:element name="receptes" type="receptesType"/>
+    <xs:element name="recepta" type="receptaType"/>
+    <xs:element name="autor" type="autorType"/>
+    <xs:element name="nom" type="xs:string"/>
+    <xs:element name="valor" type="xs:integer"/>
+    <xs:element name="dni" type="dniType"/>
+    <xs:element name="ingredients" type="ingredientsType"/>
+    <xs:element name="ingredient" type="ingredientType"/>
+    <xs:element name="quantitat" type="quantitatType"/>
+    <xs:element name="mesura" type="xs:string"/>
+    <xs:element name="passos" type="passosType"/>
+    <xs:element name="pas" type="xs:string"/>
+
+    <!-- Despres els atributs -->
+    <xs:attribute name="dificultat" type="dificultatType"/>
+    <xs:attribute name="categoria" type="categoriaType"/>
+
+    <!-- Despres agrupar tots els simpleType -->
+    <xs:simpleType name="dniType">
+        <xs:restriction base="xs:string">
+            <xs:length value="9"/>
+            <xs:pattern value="[0-9]{8}[A-Za-z]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="dificultatType">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="0"/>
+            <xs:maxInclusive value="10"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="categoriaType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="primer"/>
+            <xs:enumeration value="segon"/>
+            <xs:enumeration value="postres"/>
+            <xs:enumeration value="altres"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- I per ultim agrupar tots els ComplexType -->
+    <xs:complexType name="autorType">
+        <xs:sequence>
+            <xs:element name="nom" type="xs:string"/>
+            <xs:element name="dni" type="dniType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="quantitatType">
+        <xs:sequence>
+            <xs:element name="valor" type="xs:integer"/>
+            <xs:element name="mesura" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ingredientType">
+        <xs:sequence>
+            <xs:element name="quantitat" type="quantitatType"/>
+            <xs:element name="nom" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ingredientsType">
+        <xs:sequence>
+            <xs:element name="ingredient" type="ingredientType" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="passosType">
+        <xs:sequence>
+            <xs:element name="pas" type="xs:string" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="receptaType">
+        <xs:all>
+            <xs:element name="nom" type="xs:string"/>
+            <xs:element name="autor" type="autorType" minOccurs="0"/>
+            <xs:element name="ingredients" type="ingredientsType" minOccurs="0"/>
+            <xs:element name="passos" type="passosType"/>
+        </xs:all>
+        <xs:attribute name="dificultat" type="dificultatType" use="required"/>
+        <xs:attribute name="categoria" type="categoriaType" use="optional"/>
+    </xs:complexType>
+
+    <xs:complexType name="receptesType">
+        <xs:sequence>
+            <xs:element name="recepta" type="receptaType" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

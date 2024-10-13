@@ -1,0 +1,14 @@
+[
+  {
+    "nom": "Bar Pasqual",
+    "tipus": "Bar de tapes",
+    "adreca": "avinguda diagonal 232",
+    "propietari": "Joan Alcover"
+  },
+  {
+    "nom": "restaurant Meravelles",
+    "tipus": "restaurant de menú",
+    "adreca": "Meridiana 111",
+    "propietari": "Maria Pasqual"
+  }
+]

@@ -1,0 +1,13 @@
+- nom: Bar pasqual
+  adreça:
+    carrer: avinguda diagonal
+    numero: 232
+  tipus: bar de tapes
+  propietari: Joan Alcover
+- nom: restaurant Meravelles
+  adreça:
+    carrer: Meridiana
+    numero: 111
+  tipus: restaurant de menú
+  propietari: Maria Pasqual
+

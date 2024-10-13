@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Museu>
+    <ObresDeArt>
+        <Quadres>
+            <Nom>
+                Blau sobre blanc
+            </Nom>
+            <Artista>
+                Pere Àguila
+            </Artista>
+            <Any>
+                2014
+            </Any>
+            <Tipus>
+                Abstracte
+            </Tipus>
+            <Tecnica>
+                Oli
+            </Tecnica>
+            <Nom>
+                Gris Obscur
+            </Nom>
+            <Artista>
+                Pere Àguila
+            </Artista>
+            <Any>
+                2014
+            </Any>
+            <Tipus>
+                Abstracte
+            </Tipus>
+            <Tecnica>
+                Aquarel·la
+            </Tecnica>
+        </Quadres>
+        <Escultures>
+            <Nom>
+                Camí Llarg
+            </Nom>
+            <Artista>
+                Marta Lambert
+            </Artista>
+            <Any>
+                1981
+            </Any>
+            <Material>
+                Marbre
+            </Material>
+        </Escultures>
+    </ObresDeArt>
+</Museu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rutes_Muntanya>
+    <ruta>
+        <nom>La Travessa Cavalls</nom>
+        <distancia>84km</distancia>
+        <desnivell>4500m</desnivell>
+        <refugis>
+            <nom>Refugi Lluís Estasen</nom>
+            <nom>Refugi Sant Jordi</nom>
+            <nom>Refugi de Rebost</nom>
+            <nom>Refugi el Niu de l’Àliga</nom>
+            <nom>Refugi del Serrat de les Esposes</nom>
+            <nom>Refugi de Cortals de l’Ingla</nom>
+            <nom>Refugi de Prat d’Aguiló.</nom>
+        </refugis>
+        <nom>Travessa Carros de Foc</nom>
+        <distancia>70km</distancia>
+        <desnivell>4600m</desnivell>
+        <refugis>
+            <nom_>Refugi de Saboredo</nom_>
+            <nom>Refugi de Restanca</nom>
+            <nom>Refugi Ventosa i Calvell</nom>
+            <nom>Refugi Estany Llong</nom>
+            <nom>Refugi Josep Maria Blanc</nom>
+        </refugis>
+    </ruta>
+</Rutes_Muntanya>

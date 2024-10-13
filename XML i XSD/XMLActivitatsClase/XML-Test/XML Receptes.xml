@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Receptes>
+    <Esmorsar>
+        <Nom_Gastronomic>Ous Estrellats</Nom_Gastronomic>
+        <Ingredients>4 Ous (Sassorba)
+            2 Patates grans
+            2 Llesques de pernil serrà
+            Oli
+            Sal</Ingredients>
+        <Elaboracios>
+            <Elaboracio>primer que ens caldrà fer serà pelar les patates. Quan ho tinguem fet, passarem les patates per aigua (per eliminar restes de terra) i les tallarem a palets. Mentrestant, posarem un bon raig d’oli a un apella i la posarem a escalfar.</Elaboracio>
+            <Elaboracio>Quan l’oli estigui calent, hi posarem les varetes de patata i les deixarem daurar, removent de tant en tant.</Elaboracio>
+            <Elaboracio>Quan tingueu les patates daurades, les posarem en una safata (o les repartireu en plats, si el que voleu és fer racions individuals). Després, agafem les llesques de pernil i l’anirem tallant ben petit per finalment, repartir-lo sobre les patates.</Elaboracio>
+            <Elaboracio>Per ferrar els ous, posareu a escalfar una paella amb un raig d’oli (pot ser tranquil·lament el que us ha sobrar de fregir les patates). Quan l’oli estigui ben calent, cascareu l’ou i els tirareu a la paella amb un pessic de sal. Llavors amb molt de compte, i amb l’ajuda d’una cullera, anireu agafant oli de la paella i tirant-lo sobre l’ou fins a tenir-lo ben fet, llavors, amb l’ajuda d’una espàtula el traureu de la paella i el posareu sobre les patates. Aquest pas el repetireu tantes vegades com ous vulgueu (o necessiteu) ferrar.</Elaboracio>
+            <Elaboracio>Ara només us queda estrellar els ous, que podeu fer utilitzant dues culleres, tant per trencar els ous, com per finalment remenar-los amb les patates i els encenalls de pernil.</Elaboracio>
+        </Elaboracios>
+    </Esmorsar>
+    <Menjar tipus="no vegà">
+        <Nom_Gastronomic>Cigronets amb formatge de cabra i pebrots</Nom_Gastronomic>
+        <Ingredients>
+            <Ingredient>Grams de cigronets cuits eco</Ingredient>
+            <Ingredient>200 grams de formatge tendre de cabra ecològic (Recuits de Fonteta)</Ingredient>
+            <Ingredient>3 o 4 pebrots morrons verds i vermells bio</Ingredient>
+            <Ingredient>1 ceba</Ingredient>
+            <Ingredient>5 grans d’all</Ingredient>
+            <Ingredient>Un rajolí de llet (la suficient per fer cremós el formatge un cop fos)</Ingredient>
+            <Ingredient>1 c / p de pasta harissa (o una miqueta menys si es desitja un sabor picant moderat)</Ingredient>
+            <Ingredient>1 c / p de menta seca</Ingredient>
+            <Ingredient>1 c / p d’orenga</Ingredient>
+            <Ingredient>Pebre de jamaica</Ingredient>
+            <Ingredient>Oli d’oliva verge extra</Ingredient>
+            <Ingredient>Sal</Ingredient>
+        </Ingredients>
+        <Elaboracios>
+            <Elaboracio>Els cigrons s’han de preparar amb anterioritat, amb el remull de les llegums la nit anterior i la pertinent cocció en olla ràpida o tradicional. També es pot recórrer a uns bons cigrons cuits de pot.</Elaboracio>
+            <Elaboracio>Prepara els pebrots, talla’ls per la meitat, retíira el peduncle, les llavors i els nervis de l’interior, talla’ls en tires fines al llarg. Pela la ceba i pica-la en brunoise, pela els alls i talla’ls a làmines fines.</Elaboracio>
+            <Elaboracio>Posa una paella al foc i cobreix la seva base amb oli d’oliva, posa-ho a escalfar i incorpora els pebrots, sal al gust i deixa que es facin a foc lent. Quan comencin a estar tendres afegeix la ceba, l’orenga i el pebre de Jamaica. Una vegada que la ceba comenci a transparentar, afegeix tres dels alls laminats, prova per si cal rectificar de sal i seguir la cocció fins que els pebrots estiguin al teu gust.</Elaboracio>
+            <Elaboracio>En una altra paella amb una mica d’oli d’oliva, daura la resta dels alls i incorpora després els cigrons, afegeix la salsa harissa, barreja bé i incorpora el formatge de cabra trossejat perquè es vagi fonent. Finalment afegeix el rajolí de llet i la menta seca, i si cal, una mica de sal.</Elaboracio>
+            <Elaboracio>Cuina uns cinc minuts a foc mitjà alt fins que tots els ingredients s’hagin fusionat i els cigrons estiguin coberts per la cremositat del formatge de cabra.</Elaboracio>
+            <Elaboracio>Amb ajuda d’un cèrcol d’emplatar, serveix en els plats un llit de pebrots, sobre ells reparteix els cigrons cremosos i acaba decorant amb unes fulles de menta fresca i si ho desitja, amb unes gotes d’oli d’oliva aromatitzat amb la mateixa herba aromàtica. Bon profit!</Elaboracio>
+        </Elaboracios>
+    </Menjar>
+    <Menjar tipus="Vegà">
+        <Nom_Gastronomic>Canelons d'espinacs a la catalana</Nom_Gastronomic>
+        <Ingredients>
+            <Ingredient>600 g d'espinacs frescos i nets</Ingredient>
+            <Ingredient>50 g de panses</Ingredient>
+            <Ingredient>150 g de pinyons salvatges</Ingredient>
+            <Ingredient>500 g de beixamel</Ingredient>
+            <Ingredient>1 paquet de canelons</Ingredient>
+            <Ingredient>oli d'oliva verge extra</Ingredient>
+            <Ingredient>sal</Ingredient>
+            <Ingredient>1 gra d'all escaldat sense germinat</Ingredient>
+            <Ingredient>pebre negre</Ingredient>
+            <Ingredient>orenga fresca</Ingredient>
+            <Ingredient>formatge per gratinar</Ingredient>
+        </Ingredients>
+        <Elaboracions>
+            <Elaboracio>
+                Posem aigua bullir dins d'un olla grossa, amb una mica de sal i, quan arrenqui el bull, hi posem els canelons d'un en un perquè no s'enganxin i els coem 10 minuts.
+                Netegem els espinacs. Els repassem perquè no hi quedi sorra i els traiem la tija del mig de les fulles més grosses, perquè no quedin estellosos.
+                Seguidament, pelem un gra d'all i l'escaldem. Un cop escaldat, en traiem el germinat, així ens evitem que, quan ens el mengem, ens repeteixi.
+                Posem en un bol les panses en remull amb vi ranci, perquè s'hidratin.
+                En una cassoleta, hi fonem la mantega i hi afegim la mateixa proporció de farina per fer la beixamel. Anem removent durant uns 10 minuts, ens hem d'assegurar que la farina no quedi crua. Paral·lelament, posem una cassoleta amb llet i una mica de nou moscada ratllada a bullir.
+                Escalfem el forn a 200º. Refredem els canelons bullits amb aigua freda i, seguidament, els estirem la pasta cuita sobre un drap de cuina net, per evitar que se'ns enganxi al marbre. Afegim la barreja de mantega i farina a la llet.
+                En una paella, hi posem un raig d'oli (8 voltes) i un polsim de sal. Tallem els espinacs ben petits i els saltem a foc baix durant un minut només, volem que ens quedin cruixents. Hi afegim l'all tallat ben petit -no el volem trobar-, les panses amb una mica de vi ranci, els pinyons i, al final, una cullerada o dues de la beixamel, per lligar-ho tot.
+                Quan tenim tots els ingredients lligats, amb l'ajuda de dues culleres, fem una quenelle, és a dir, una boleta. Anem posant una quenelle damunt de cada tros de pasta de caneló i els anem enrotllant.
+                Posem en una safata de forn una mica de beixamel, els canelons a sobre i més beixamel fins a cobrir-los. El formatge és el que es gratinarà, per tant, en posem fins que tapi la beixamel. Fiquem la safata al forn uns 5 minuts. Mentrestant, triem les fulles d'orenga.
+                Traiem els canalons del forn i hi posem fulles d'orenga; ho tornem a ficar al forn durant 3 minuts més.
+            </Elaboracio>
+        </Elaboracions>
+    </Menjar >
+    <Postres>
+        <Nom_Gastronomic>Mousse de xocolata</Nom_Gastronomic>
+        Ingredients per a la mousse de xocolata
+        200 grams de xocolata per a postres o millor encara xocolata per fondre (Xocate)
+        6 cullerades de sucre
+        30 grams de mantega sense sal.
+        4 ous grans
+        aigua
+        Elaboració de la recepta
+        Per començar i que el mousse de xocolata ens quedi a la perfecció com a qualsevol xef gourmet i professional, anem a començar separant les clares dels rovells dels ous, i a picar la xocolata finament.
+        Bat les clares d’ou amb una mica de sucre de tal manera que es vagi creant una consistència dura, i afegeix el sucre restant als rovells dels ous, i bat fins obtenir una consistència espumosa.
+        Després que hagis picat la xocolata, afegeix la mantega i l’aigua i fon-la a bany maria, afegeix la barreja dels rovells, quan ja s’hagi fos procedeix a afegir la barreja feta amb les clares dels ous, remenant tot insistentment fins que hagis aconseguit una barreja homogènia de tots els ingredients.
+        Aconsegueix uns gots mitjans, on puguis posar la barreja del mousse de xocolata, i després omple’ls, deixa que aquesta barreja reposi almenys durant mitja hora abans que passes a ficar-los a la nevera, això li servirà perquè s’assentin per complet, i deixa a la nevera almenys per tres hores abans de servir.
+        A gaudir!
+
+    </Postres>
+
+
+</Receptes>

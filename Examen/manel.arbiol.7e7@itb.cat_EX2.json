@@ -1,0 +1,30 @@
+[
+  {
+    "nom_equip": "Verds",
+    "color_camisetas": "verd, groc, i blau",
+    "quantitat_jugadors": 12,
+    "victories": 6,
+    "derrotes": 3,
+    "pagament_quota": true,
+    "capita":[
+      {"nom": "Marc Pere", "dni": "09376283A" }
+    ],
+    "ubicació_partit": [
+      {"pavello": "Marina", "carrer": "Avinguda Diagonal 424"}
+    ]
+  },
+  {
+    "nom_equip": "Forts<>Forts",
+    "color_camisetas": "verd i negre",
+    "quantitat_jugadors": 15,
+    "victories": 3,
+    "derrotes": 9,
+    "pagament_quota": false,
+    "capita":[
+      {"nom": "Ona Pons", "dni": "48754874X" }
+    ],
+    "ubicació_partit": [
+      {"pavello": "Meridiana", "carrer": "Avinguda Meridiana 244"}
+    ]
+  }
+]

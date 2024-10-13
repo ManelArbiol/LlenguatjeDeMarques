@@ -1,0 +1,22 @@
+div {
+    width: 180px;
+    height: 130px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 15px;
+    background-color: lightblue;
+}
+
+#FloatLeft{
+    float: left;
+
+}
+
+#FloatRight {
+    float: right;
+
+}
+
+#ClearAtribute{
+    clear: both;
+}

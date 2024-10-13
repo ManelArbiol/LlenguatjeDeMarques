@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Cites>
+    <cita>
+        <Nom>Alba</Nom>
+        <Cognom>Casamitjana</Cognom>
+        <Comentari>"M'encanta el Pans&amp;Company"</Comentari>
+        <Localització>Parets del Vallès</Localització>
+    </cita>
+    <cita>
+        <Nom>Joana</Nom>
+        <Cognom>Puig</Cognom>
+        <Comentari><![CDATA["Si x>y, y>z i z<q, es q>x)"]]></Comentari>
+        <!-- Any de publicació: 2016 -->
+        <Localització>Mollet</Localització>
+    </cita>
+</Cites>
+

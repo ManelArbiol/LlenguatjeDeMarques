@@ -1,0 +1,18 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- fitxer d'empleats -->
+<Empleats_De_La_Empresa>
+    <empleat feina="treballador">
+        <Nom>Joan</Nom>
+        <Data_De_Neixament>25/11/1995</Data_De_Neixament>
+    </empleat>
+    <empleat feina="treballador">
+        <Nom>Carme</Nom>
+        <Data_De_Neixament>25/11/1977</Data_De_Neixament>
+    </empleat>
+    <empleat sou="40000">
+        <Nom>Alex</Nom>
+        <Data_De_Neixament>25/11/1967</Data_De_Neixament>
+    </empleat>
+</Empleats_De_La_Empresa>

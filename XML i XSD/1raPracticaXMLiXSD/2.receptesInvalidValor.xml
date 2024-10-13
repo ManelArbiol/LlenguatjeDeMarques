@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Exemple invalid: 'valor': 'dos' is not a valid value  -->
+<receptes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="manel.arbiol.7e7.xsd">
+    <recepta dificultat="5">
+        <nom>Papates amb llet</nom>
+        <ingredients>
+            <ingredient>
+                <quantitat>
+                    <valor>dos</valor>
+                    <mesura>grams</mesura>
+                </quantitat>
+                <nom>all</nom>
+            </ingredient>
+        </ingredients>
+        <passos>
+            <pas>Fregir patates</pas>
+        </passos>
+    </recepta>
+</receptes>

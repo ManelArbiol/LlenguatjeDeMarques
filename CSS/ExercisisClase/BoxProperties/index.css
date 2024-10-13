@@ -1,0 +1,48 @@
+#figure1{
+    border: black solid 1px;
+    margin-right: 90%;
+    padding-bottom: 50px;
+
+}
+
+#figure2{
+    border: black solid 3px;
+
+}
+
+#figure3{
+    border: red solid 1px;
+    margin: 20px;
+
+}
+
+#figure4{
+    border: green solid 1px;
+    margin: 10px;
+    border-radius: 3px;
+    margin-right: 50%;
+    padding-bottom: 50px;
+
+}
+
+#figure5{
+    border: black solid 1px;
+    padding-left: 30px;
+
+}
+
+#figure6{
+    border: black solid 1px;
+    margin-left: 30px;
+
+}
+
+#figure7{
+    border: cyan solid 3px;
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-right: 800px;
+
+
+}

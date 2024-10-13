@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Establiments>
+    <Bars>
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="test.xsd"
+        <Nom>Bar Pasqual</Nom>
+        <Propietari>Joan Alcover</Propietari>
+        <Direcció>Avinguda Diagonal 232</Direcció>
+        <Descripció>Bar de tapes</Descripció>
+    </Bars>
+    <Restaurants>
+        <Nom>
+            Meravelles
+        </Nom>
+        <Propietari>
+            Maria Pasqual
+        </Propietari>
+        <Direcció>
+            Meridiana 111
+        </Direcció>
+        <Descripció>
+            Restaurant de Menu
+        </Descripció>
+        <Nom>
+            Racó de l'Avia
+        </Nom>
+        <Propietari>
+            Alba Puig
+        </Propietari>
+        <Direcció>
+            Av Roma 221
+        </Direcció>
+        <Descripció>
+            Restaurant de Menu
+        </Descripció>
+    </Restaurants>
+</Establiments>
