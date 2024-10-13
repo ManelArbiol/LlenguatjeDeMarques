@@ -1,20 +1,57 @@
-
 nav {
     background-color: lightblue;
-    margin-right: 30%;
-    margin-left: 30%;
-    margin-bottom: 20px;
+    max-width: 50%;
+    margin: 0 auto 20px auto;
     border-radius: 3px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
 
 }
-
-
 
 #first {
     display: flex;
-    justify-content: center;
+    flex-flow: row nowrap;
+    gap: 90px;
+}
 
+#second {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px;
+}
+
+#third {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+#forth {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
 
 }
 
+#forth .button {
+    padding: 10px;
+    background-color: mediumseagreen;
+}
 
+#forth .b3 {
+    order: 1;
+    padding-right: 10%;
+}
+
+#forth .b2 {
+    order: 3;
+    padding-right: 50%;
+}
+
+#forth .b1 {
+    order: 2;
+    padding-right: 10%;
+}
