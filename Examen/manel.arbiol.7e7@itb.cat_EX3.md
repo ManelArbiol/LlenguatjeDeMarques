@@ -31,7 +31,9 @@
 
 
 ## Codi java
+```java
+public void ferMato(){
+  System.out.println("mato fet!");
+}
+```
 
-    public void ferMato(){
-        System.out.println("mato fet!");
-        }
