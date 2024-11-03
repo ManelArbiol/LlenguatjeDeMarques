@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="607c6732-862b-4df1-96e4-dc8d8e644dbe" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/CSS/caretta.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/CSS/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/CSS/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/CSS/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/PVinculadas/caretta_caretta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/PVinculadas/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/PVinculadas/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/Loggerhead_turtle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/caretta_caretta2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/caretta_caretta3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/license.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/lutra_lutra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/rhinolophus_mehelyi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LlenguatjeDeMarques.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/manel.arbiol.7e7@itb.cat_.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/manel.arbiol.7e7@itb.cat_EX1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/manel.arbiol.7e7@itb.cat_EX2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/manel.arbiol.7e7@itb.cat_EX3.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ManelArbiol&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ManelArbiol/LlenguatjeDeMarques.git&quot;,
+    &quot;accountId&quot;: &quot;d4dc2b84-3b33-4b3b-999c-31cc43ba114a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CSS/ExercisisClase/BackGrounds/index.css" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nNxKRHcqhwBxNuFbbpjxdxOwtz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/DAMviPast/DAMVI TECNOLOGYC/DAMvi M04-Llenguatge de marques/HTML/Ejercicios/PaginaWeb&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\HTML" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\HTML\2PracticaHTML\CSS" />
+      <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\HTML\2PracticaHTML" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="607c6732-862b-4df1-96e4-dc8d8e644dbe" name="Changes" comment="" />
+      <created>1728827270484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728827270484</updated>
+      <workItem from="1728827271491" duration="12583000" />
+      <workItem from="1728921876586" duration="535000" />
+      <workItem from="1728924176676" duration="4000" />
+      <workItem from="1730025770293" duration="17000" />
+      <workItem from="1730479928328" duration="15814000" />
+      <workItem from="1730581158321" duration="5622000" />
+      <workItem from="1730633889117" duration="19744000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1728827439098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728827439098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1728852984843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728852984843</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1728922213775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728922213775</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+</project>
