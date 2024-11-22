@@ -1,0 +1,5 @@
+.highlited {
+    background-color: lightgreen;
+    border: 2px solid black;
+    transition: background-color 2s, border 2s;
+}

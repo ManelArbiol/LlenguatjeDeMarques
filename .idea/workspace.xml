@@ -5,29 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="607c6732-862b-4df1-96e4-dc8d8e644dbe" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/CSS/caretta.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/CSS/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/CSS/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/CSS/list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/PVinculadas/caretta_caretta.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/PVinculadas/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/PVinculadas/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/Loggerhead_turtle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/caretta_caretta2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/caretta_caretta3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/license.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/lutra_lutra.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/2PracticaHTML/src/rhinolophus_mehelyi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LlenguatjeDeMarques.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen/manel.arbiol.7e7@itb.cat_.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen/manel.arbiol.7e7@itb.cat_EX1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen/manel.arbiol.7e7@itb.cat_EX2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen/manel.arbiol.7e7@itb.cat_EX3.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/HelloName/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/HelloName/indexJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/HighlightWelcome/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/HighlightWelcome/indexJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/HighlightWelcomeAsClass/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/HighlightWelcomeAsClass/indexJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/HighlightWelcomeAsClass/indexStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/ItemList/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/ItemList/indexJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/OneButtonClicked/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Exercisis/OneButtonClicked/indexJS.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,27 +60,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/DAMviPast/DAMVI TECNOLOGYC/DAMvi M04-Llenguatge de marques/HTML/Ejercicios/PaginaWeb&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/DAMvi 1r 2025/LlenguatjeDeMarques/JAVASCRIPT/Exercisis/ItemList",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\JAVASCRIPT\Exercisis\ItemList" />
+      <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\JAVASCRIPT\Exercisis\HighlightWelcomeAsClass" />
+      <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\JAVASCRIPT\Exercisis\HighlightWelcome" />
+      <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\JAVASCRIPT\Exercisis\OneButtonClicked" />
       <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\HTML" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\JAVASCRIPT\Exercisis\HelloName" />
       <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\HTML\2PracticaHTML\CSS" />
       <recent name="G:\DAMvi 1r 2025\LlenguatjeDeMarques\HTML\2PracticaHTML" />
     </key>
@@ -99,8 +95,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -118,7 +114,11 @@
       <workItem from="1730025770293" duration="17000" />
       <workItem from="1730479928328" duration="15814000" />
       <workItem from="1730581158321" duration="5622000" />
-      <workItem from="1730633889117" duration="19744000" />
+      <workItem from="1730633889117" duration="19916000" />
+      <workItem from="1731844577678" duration="123000" />
+      <workItem from="1731844807240" duration="1308000" />
+      <workItem from="1731846260981" duration="43000" />
+      <workItem from="1731846312133" duration="15630000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728922213775</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1730668266224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730668266224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,5 +161,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
