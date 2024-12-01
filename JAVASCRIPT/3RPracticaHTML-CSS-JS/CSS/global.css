@@ -1,0 +1,354 @@
+/*----------------------------------------------------------*/
+/* CSS per canvis globals i generals per a tots els arxius .html */
+/*---------------------------------------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: url('../src/backgroundSection1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+/*------------------*/
+/* Estil per al nav i header */
+/*------------------*/
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 1000;
+    background: url('../src/bgNature.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 1s ease;
+}
+
+/*------------------*/
+/* Estil per poder fer l'encongiment amb JS */
+/*------------------*/
+
+header.shrink {
+    height: 70px;
+    padding: 10px 20px;
+    flex-direction: row;
+    justify-content: space-between;
+    background-size: cover;
+}
+
+
+/* Parametres necesaris perque el header es torni fosc una vegada es minimitzi (ho he buscat per internet) */
+header.shrink::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: -1;
+    transition: all
+}
+
+/*------------------*/
+/* Efectes visuals per al JS */
+/*------------------*/
+
+header.initial-color h1 {
+    color: darkorange;
+}
+
+header.initial-color nav ul li a {
+    color: darkorange;
+}
+
+header.scroll-color h1 {
+    color: darkgreen;
+}
+
+header.scroll-color nav ul li a {
+    color: darkgreen;
+}
+
+/*------------------*/
+/* Animació per canviar el color dels elements */
+/*------------------*/
+
+@keyframes color-effect {
+    0% {
+        color: darkgreen;
+    }
+    50% {
+        color: mediumseagreen;
+    }
+    100% {
+        color: darkolivegreen;
+    }
+}
+
+header.shrink h1, header.shrink nav ul li a {
+    animation: color-effect 3s infinite alternate;
+}
+
+h2 {
+    animation: color-effect 3s infinite alternate;
+}
+
+/*------------------*/
+/*------------------*/
+
+
+/*------------------*/
+/* Estils per als elements dins del header */
+/*------------------*/
+
+header h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: green;
+    font-size: 24px;
+}
+
+/*------------------*/
+/* Estils per al main */
+/*------------------*/
+
+main {
+    margin-top: 7%;
+    padding: 10px;
+}
+
+
+section {
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.background-section {
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.background-title {
+    display: inline-block;
+    max-width: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/*------------------*/
+/* Estils per als articles */
+/*------------------*/
+
+.article-item {
+    width: 30%;
+    box-sizing: border-box;
+    margin: 0 auto 20px auto;
+    text-align: center;
+    border: 2px solid darkred;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.3s;
+    background: white;
+}
+
+.article-item:hover {
+    transform: scale(1.02);
+}
+
+.article-item article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+
+.article-item h3 {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+}
+
+.article-item h3, .article-item p {
+    text-align: center;
+}
+
+.article-item img {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 2px solid darkgreen;
+}
+
+.article-item a {
+    color: black;
+    text-decoration: none;
+}
+
+.article-item a:hover {
+    color: darkgreen !important;
+}
+
+/*------------------*/
+/* Estils per a llistes */
+/*------------------*/
+
+ol, ul {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+li a:hover {
+    color: #555;
+}
+
+/*------------------*/
+/* Estils per al footer */
+/*------------------*/
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+}
+
+footer h2 {
+    margin-bottom: 10px;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+footer ul li {
+    margin: 0 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    color: white;
+}
+
+/*------------------*/
+/* Estils per fer el responsive */
+/*------------------*/
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+    }
+
+    nav ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    nav ul li {
+        margin: 5px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    .background-section {
+        padding: 10px;
+    }
+
+    .background-title {
+        margin-right: 10%;
+    }
+
+    .article-item {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    .article-item img {
+        max-width: 90%;
+    }
+
+    ol.article-list .article-item {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    ol.article-list .article-item img {
+        max-width: 90%;
+    }
+
+    .gallery-images {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .gallery-images img {
+        height: auto;
+    }
+
+    form {
+        grid-template-columns: 1fr;
+    }
+
+    form button {
+        grid-column: 1;
+    }
+}
